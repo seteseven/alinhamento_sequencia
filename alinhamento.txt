@@ -1,0 +1,300 @@
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATTA
+                  0 ||.|.|....||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|-
+NZ_CP1013         0 ATTCATGCCGGTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT-
+
+NZ_CP1013        51 ACAAA 56
+                 60 -|... 65
+NZ_CP1013        52 -CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGC-TTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|-|...|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 --|... 66
+NZ_CP1013        52 --CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTT-TTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|-..|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 --|... 66
+NZ_CP1013        52 --CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTT-TGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|.-.|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 --|... 66
+NZ_CP1013        52 --CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTT-GAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|..-|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 --|... 66
+NZ_CP1013        52 --CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATTA
+                  0 ||.|.|....||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|-
+NZ_CP1013         0 ATTCATGCCGGTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT-
+
+NZ_CP1013        51 ACAAA 56
+                 60 -|... 65
+NZ_CP1013        52 -CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGC-TTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|-|...|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 --|... 66
+NZ_CP1013        52 --CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTT-TTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|-..|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 --|... 66
+NZ_CP1013        52 --CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTT-TGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|.-.|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 --|... 66
+NZ_CP1013        52 --CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTT-GAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|..-|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 --|... 66
+NZ_CP1013        52 --CTCT 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATTA
+                  0 ||.|.|....||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|.
+NZ_CP1013         0 ATTCATGCCGGTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGTC
+
+NZ_CP1013        51 ACAAA 56
+                 60 .|--. 65
+NZ_CP1013        53 TC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGC-TTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|-|...|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|--. 66
+NZ_CP1013        52 CTC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTT-TTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|-..|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|--. 66
+NZ_CP1013        52 CTC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTT-TGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|.-.|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|--. 66
+NZ_CP1013        52 CTC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTT-GAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|..-|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|--. 66
+NZ_CP1013        52 CTC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATTA
+                  0 ||.|.|....||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|.
+NZ_CP1013         0 ATTCATGCCGGTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGTC
+
+NZ_CP1013        51 ACAAA 56
+                 60 .|--. 65
+NZ_CP1013        53 TC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGC-TTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|-|...|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|--. 66
+NZ_CP1013        52 CTC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTT-TTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|-..|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|--. 66
+NZ_CP1013        52 CTC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTT-TGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|.-.|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|--. 66
+NZ_CP1013        52 CTC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTT-GAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|..-|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|--. 66
+NZ_CP1013        52 CTC--T 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATTA
+                  0 ||.|.|....||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|.
+NZ_CP1013         0 ATTCATGCCGGTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGTC
+
+NZ_CP1013        51 ACAAA 56
+                 60 .|.-- 65
+NZ_CP1013        53 TCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGC-TTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|-|...|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|.-- 66
+NZ_CP1013        52 CTCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTT-TTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|-..|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|.-- 66
+NZ_CP1013        52 CTCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTT-TGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|.-.|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|.-- 66
+NZ_CP1013        52 CTCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTT-GAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|..-|-||..|.||.|--|.||----|||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATG----CATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|.-- 66
+NZ_CP1013        52 CTCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATTA
+                  0 ||.|.|....||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|.
+NZ_CP1013         0 ATTCATGCCGGTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGTC
+
+NZ_CP1013        51 ACAAA 56
+                 60 .|.-- 65
+NZ_CP1013        53 TCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGC-TTTTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|-|...|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|.-- 66
+NZ_CP1013        52 CTCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTT-TTGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|-..|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|.-- 66
+NZ_CP1013        52 CTCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTT-TGAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|.-.|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|.-- 66
+NZ_CP1013        52 CTCT-- 56
+
+Score:  20.0 
+ 
+ NZ_CP1013         0 ATGCTTTT-GAGTAAGGAGAT--ATTGCCCTCATTAATAGCATC---GT----CTGCATT
+                  0 ||.|.|..-|-||..|.||.|--|.|||----||.|||-||-||---||----|-|||.|
+NZ_CP1013         0 ATTCATGCCG-GTGCGCAGGTCAAATGC----ATGAAT-GC-TCCGGGTAGAAC-GCAGT
+
+NZ_CP1013        50 AACAAA 56
+                 60 ..|.-- 66
+NZ_CP1013        52 CTCT-- 56
+
